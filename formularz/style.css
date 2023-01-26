@@ -1,0 +1,19 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, #1ed78d , #0f98b4);
+}
+
+table {
+    background: linear-gradient(to right, #1ed78d , #0f98b4);
+}
+.formularz {
+    display: grid;
+    place-items: center;
+    
+}
+table {
+    border: 1px solid black;
+}
